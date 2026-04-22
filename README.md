@@ -1,4 +1,4 @@
-# 📚 Aesthetic Book Recommendation System  
+# 📚 Book Recommendation System  
 
 A smart and intuitive book recommendation system built with Python that suggests books based on user preferences.  
 It leverages content-based filtering to analyze book features and deliver personalized recommendations.
